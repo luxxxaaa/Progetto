@@ -4,6 +4,7 @@
 #include <unistd.h>  // Libreria per funzioni POSIX, come fork e pipe
 #include <ncurses.h> // Libreria per gestire l'interfaccia grafica su terminale
 #include <sys/wait.h> // Libreria per la gestione dei processi
+//ciaoneeeeeeeeeeeee
 
 // Definisce i simboli per i personaggi
 #define VESPA    '^'    // Simbolo per la vespa
