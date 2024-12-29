@@ -4,7 +4,7 @@
 #include <unistd.h>  // Libreria per funzioni POSIX, come fork e pipe
 #include <ncurses.h> // Libreria per gestire l'interfaccia grafica su terminale
 #include <sys/wait.h> // Libreria per la gestione dei processi
-
+//CIAO
 #define RANA '(°°)' // Simbolo per la rana
 #define COCCODRILLO_DX '~~~OOO^==' // Simbolo per il coccodrillo verso destra
 #define COCCODRILLO_SX '==^OOO~~~' // Simbolo per il coccodrillo verso sinistra
